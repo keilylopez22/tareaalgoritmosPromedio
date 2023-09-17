@@ -1,0 +1,6 @@
+Juan=91.0
+Jose=48.25
+Pedro=82.25
+Juan=91.0
+Jose=48.25
+Pedro=82.25
